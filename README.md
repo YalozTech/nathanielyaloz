@@ -36,6 +36,6 @@ I'm a Data Science M.A. student 🧑‍🎓 at Bar-Ilan University, currently re
 
 - 📧 [n.yaloz2030@gmail.com](mailto:n.yaloz2030@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nathaniel-yaloz/)
-- 🌍 [GitHub](https://github.com/yourusername)
+- 🌍 [GitHub](https://github.com/nathanielyaloz)
 
 **#DataScience #MachineLearning #FullStack #BigData #Python #React #DataAnalytics #Tech**

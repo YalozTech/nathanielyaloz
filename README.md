@@ -2,8 +2,6 @@
 
 # Hey there! 👋 I'm Nathaniel Yaloz
 
-![Nathaniel Yaloz](./github_gif_nathan.gif)
-
 <img src="./github_gif_nathan.gif" width="500" height="300">
 
 

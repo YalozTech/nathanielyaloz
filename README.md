@@ -5,6 +5,7 @@
 ![Nathaniel Yaloz](./media/github_gif_nathan.gif)
 
 
+
 I'm a Data Science M.A. student 🧑‍🎓 at Bar-Ilan University, currently researching **Big Data & Ethics**. I also have 5+ years of experience as a **Full-Stack Developer** and **Data Analyst**.
 
 ## About Me

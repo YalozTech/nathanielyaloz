@@ -2,7 +2,8 @@
 
 # Hey there! 👋 I'm Nathaniel Yaloz
 
-[![Nathaniel Yaloz](https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg)](https://github.com/YalozTech)
+[![Nathaniel Yaloz](./media/github_gif_nathan.mp4)](./media/github_gif_nathan.mp4)(https://github.com/YalozTech)
+
 
 I'm a Data Science M.A. student 🧑‍🎓 at Bar-Ilan University, currently researching **Big Data & Ethics**. I also have 5+ years of experience as a **Full-Stack Developer** and **Data Analyst**.
 

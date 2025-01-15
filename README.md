@@ -2,7 +2,10 @@
 
 # Hey there! 👋 I'm Nathaniel Yaloz
 
-<img src="./github_gif_nathan.gif" width="500" height="300">
+<p align="center">
+  <img src="./github_gif_nathan.gif" width="500" height="300">
+</p>
+
 
 
 I'm a Data Science M.A. student 🧑‍🎓 at Bar-Ilan University, currently researching **Big Data & Ethics**. I also have 5+ years of experience as a **Full-Stack Developer** and **Data Analyst**.
